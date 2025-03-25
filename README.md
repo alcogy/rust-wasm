@@ -1,6 +1,8 @@
-# Fundamental WebGL & WASM
-The Repository that research for WebGL and WASM by Rust.<br>
-I Implemented Fundamental geometry, animation, shader, scene.
+# Rand2 WASM
+Rand2 WASM is a research and development for WebGL and WASM.<br>
+Implemented Fundamental geometry, animation, shader, scene.
+
+Build by Rust.
 
 ## How to use
 Build and start up server.
