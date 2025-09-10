@@ -1,5 +1,5 @@
-# Rand2 WASM
-Rand2 WASM is a research and development for WebGL and WASM.<br>
+# RustWASM
+RustWASM is a research and development for WebGL and WASM.<br>
 Implemented Fundamental geometry, animation, shader, scene.
 
 Build by Rust.
